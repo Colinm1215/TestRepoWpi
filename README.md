@@ -1,2 +1,2 @@
 # TestRepoWpi
-Test of git for WPI students
+Modified README.md by Colin Mettler
